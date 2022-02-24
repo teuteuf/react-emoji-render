@@ -12,6 +12,10 @@ Normalize and render emoji's the way your users expect.
 
 [Live Demo on CodeSandbox](https://codesandbox.io/s/exciting-ives-vwe5g)
 
+## Fork
+
+- updated version of emoji-regex dependency to ^10.0.0
+
 ## Installation
 
 Install with your favorite package manager:
